@@ -44,10 +44,10 @@
 
 # IMPORTANT 
 
-#### :octocat: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , LINE NUMBER 124 IN SOURCE CODE FILE .  
+#### :page_facing_up: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , LINE NUMBER 124 IN SOURCE CODE FILE .  
 
-#### :octocat: If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same path(folder) to get the keylog visible .
+#### :page_facing_up: If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same path(folder) to get the keylog visible .
 
-#### :octocat: in case file is not present it will show file not present error.
+#### :page_facing_up: in case file is not present it will show file not present error.
 
-#### :octocat: if you have made changes you must make changes to unhide.bat file by specifying the path .
+#### :page_facing_up: if you have made changes you must make changes to unhide.bat file by specifying the path .
