@@ -25,7 +25,7 @@
 
 ## :unlock: To Unhide The Keylog File 
 
-#### To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
+#### :eyes: To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
 
 
 
