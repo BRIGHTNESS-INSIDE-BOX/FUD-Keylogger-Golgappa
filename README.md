@@ -14,7 +14,7 @@
 
 #### :fuelpump: You Have To Compile The Source Code To Get The Executable .
 
-#### :star2: This Keylogger Works Complete invisible , However The Process Is Visible In Task Manager Processes.
+#### :star2: This Keylogger Works Completly invisible , However The Process Is Visible In Task Manager Processes.
 
 #### :star2: RECORD ALL KEYS .
 
