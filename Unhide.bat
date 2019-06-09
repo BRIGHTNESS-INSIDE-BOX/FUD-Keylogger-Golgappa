@@ -1,1 +1,1 @@
-attrib -h -s Pikachu.txt
+attrib -s -h Pikachu.txt
