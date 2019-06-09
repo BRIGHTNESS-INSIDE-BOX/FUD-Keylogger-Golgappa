@@ -37,6 +37,7 @@
 
 #### :clipboard: COMPILATION PREFFERED IDE :> YOU CAN USE CODE BLOCKS FOR SUCCESSFULL COMPILATION OF SOURCE CODE
 
+#### :gem: You Have To First Create A Project Then Copy Source Code To Main.c Of The Project. 
 
 
 -----------------------------------------------------------------------------------------------------------------
