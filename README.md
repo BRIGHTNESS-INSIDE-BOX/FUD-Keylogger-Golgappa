@@ -1,9 +1,13 @@
-# Hot Chocolate
+# :chocolate_bar: :tea: :yum:
 
-**This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux. 
-:+1:
+# Hot Chocolate  :smiling_imp:
 
-This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
+
+
+### This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux. :+1:
+
+
+### :boom: This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
 
 You Have To Compile The Source Code To Get The Executable .
 
@@ -27,4 +31,3 @@ If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same p
 in case file is not present it will show file not present error.
 
 if you have made changes you must make changes to unhide.bat file by specifying the path .
-
