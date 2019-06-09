@@ -37,7 +37,9 @@
 
 #### :clipboard: COMPILATION PREFFERED IDE :> YOU CAN USE CODE BLOCKS FOR SUCCESSFULL COMPILATION OF SOURCE CODE
 
-#### :gem: You Have To First Create A Project Then Copy Source Code To Main.c Of The Project. 
+#### :gem: You Have To First Create A Project , Then Copy Source Code To Main.c Of The Project You Have Created In Codeblocks.
+
+#### :computer: Download link for Code Blocks :point_right: http://www.codeblocks.org/downloads/26 .
 
 
 -----------------------------------------------------------------------------------------------------------------
