@@ -10,7 +10,7 @@
 
 #### :star2: This Keylogger Works Complete invisible , However The Process Is Visible In Task Manager Processes.
 
-#### :star2: Can RECORD ALL KEYS .
+#### :star2: RECORD ALL KEYS .
 
 #### :star2: RECORD MOUSE CLICKS ALSO.
 
