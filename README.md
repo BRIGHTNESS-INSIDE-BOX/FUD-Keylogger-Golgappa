@@ -34,4 +34,4 @@
 
 #### :octocat: in case file is not present it will show file not present error.
 
-###@ :octocat: if you have made changes you must make changes to unhide.bat file by specifying the path .
+### :octocat: if you have made changes you must make changes to unhide.bat file by specifying the path .
