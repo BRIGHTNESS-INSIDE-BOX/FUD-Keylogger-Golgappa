@@ -17,7 +17,7 @@
 
 ------------------------------------------------------------------------------------------
 
-## :unlock:
+## :unlock: To Unhide The Keylog File 
 
 ### To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
 
@@ -26,12 +26,12 @@
 
 # IMPORTANT 
 
-### :octocat: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , 
+#### :octocat: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , 
 
-### :octocat: MAKE SURE TO CHANGE LINE NUMBER 124 IN SOURCE CODE FILE .
+#### :octocat: MAKE SURE TO CHANGE LINE NUMBER 124 IN SOURCE CODE FILE .
 
-### :octocat: If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same path(folder) to get the keylog visible .
+#### :octocat: If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same path(folder) to get the keylog visible .
 
-### :octocat: in case file is not present it will show file not present error.
+#### :octocat: in case file is not present it will show file not present error.
 
-### :octocat: if you have made changes you must make changes to unhide.bat file by specifying the path .
+###@ :octocat: if you have made changes you must make changes to unhide.bat file by specifying the path .
