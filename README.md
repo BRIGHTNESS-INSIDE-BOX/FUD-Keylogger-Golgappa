@@ -23,13 +23,13 @@
 
 #### :octocat: COMPILATION PREFFERED IDE :> YOU CAN USE CODE BLOCKS FOR SUCCESSFULL COMPILATION OF SOURCE CODE
 
+
 -----------------------------------------------------------------------------------------------------------------
+
 
 # IMPORTANT 
 
-#### :octocat: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , 
-
-#### FOR THIS MAKE SURE TO CHANGE LINE NUMBER 124 IN SOURCE CODE FILE .
+#### :octocat: You Can Make Changes To C source code file , to change the path where you want to save the keylog file , LINE NUMBER 124 IN SOURCE CODE FILE .  
 
 #### :octocat: If You Have Not Made Changes To The File You Must Run Unhide.bat , in the same path(folder) to get the keylog visible .
 
