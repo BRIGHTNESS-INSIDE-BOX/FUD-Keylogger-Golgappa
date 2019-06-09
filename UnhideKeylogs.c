@@ -21,7 +21,11 @@ int main()
   */
 
 
-  system("attrib -h -s Pikachu.txt");
+  system("attrib -h -s Pikachu.txt"); 
 
+  getch();
+  
+  return 0;
+  
 
 }
