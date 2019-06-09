@@ -8,9 +8,9 @@
 ## :ghost: FEATURES.
 
 
-### :boom: This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux.
+#### :boom: This Repository Contains Source Code, Written In C Programming Language , A Keylogger That Works On Windows Machine, as well as on Linux.
 
-### :warning:  This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
+#### :warning:  This Program Is Made Only For Educational Purposes , If You Harm Anyone You Are Responsible For Your Own Actions .
 
 #### :fuelpump: You Have To Compile The Source Code To Get The Executable .
 
@@ -25,7 +25,7 @@
 
 ## :unlock: To Unhide The Keylog File 
 
-### To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
+#### To Unhide You Can Use The Bat File , or Can compile C Source Code File  UnhideKeylogs.c To Get The Executable ,(Both in Repository).
 
 
 
