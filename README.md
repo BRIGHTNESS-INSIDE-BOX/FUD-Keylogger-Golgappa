@@ -54,3 +54,12 @@
 #### :page_facing_up: in case file is not present it will show file not present error.
 
 #### :page_facing_up: if you have made changes you must make changes to unhide.bat file by specifying the path .
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+# What's Missing 
+
+#### :star2: This Is Not A Remote KeyLogger .
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
