@@ -60,7 +60,7 @@
 # UD (Undectable) 
 
 #### :star2: Without Using Cryptors This Logger Is Undectable .
-#### :star2: When We use Cryptors with logger it will be Fully - Undectable. 
+#### :star2: When We Use Cryptors With logger It Will Be Fully - Undectable. 
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
