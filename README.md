@@ -65,7 +65,8 @@
 
 #### Testing on Virus Total Without Crypting
 
-![FUD](https://user-images.githubusercontent.com/33171575/68523352-fdf5e500-02dd-11ea-918b-05f7ff87240e.PNG)
+
+![ud](https://user-images.githubusercontent.com/33171575/68523415-dc492d80-02de-11ea-9832-bb1cb8e87af6.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
