@@ -57,6 +57,13 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
+# UD (Undectable) 
+
+#### :star2: Without Using Cryptors This Logger Is Undectable .
+#### :star2: When We use Cryptors with logger it will be Fully - Undectable. 
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 # What's Missing 
 
 #### :star2: This Is Not A Remote KeyLogger .
@@ -69,8 +76,3 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-  ```html
-  <video width="320" height="240" controls>
-  <source src="alpha3.wmv" type="video/wmv">
-  <source src="movie.ogg" type="video/ogg">
-  ```
