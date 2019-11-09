@@ -1,4 +1,3 @@
-# :rice_cracker: :tea: :yum:
 
 #  Golgappa
 
