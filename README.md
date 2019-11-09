@@ -63,7 +63,7 @@
 #### :star2: When We Use Cryptors With logger It Will Be Fully - Undectable. 
 #### :star2: When You Will Compile It Will Generate A New Hash For The Executable.
 
-#### Testing on Virus Total Without Crypting
+# :100: Testing on Virus Total Without Crypting
 
 
 ![ud](https://user-images.githubusercontent.com/33171575/68523415-dc492d80-02de-11ea-9832-bb1cb8e87af6.png)
