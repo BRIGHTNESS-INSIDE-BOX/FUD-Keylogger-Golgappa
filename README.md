@@ -61,6 +61,7 @@
 
 #### :star2: Without Using Cryptors This Logger Is Undectable .
 #### :star2: When We Use Cryptors With logger It Will Be Fully - Undectable. 
+## ::hear_no_evil: Do Not Worry
 #### :star2: When You Will Compile It Will Generate A New Hash For The Executable.
 
 # :100: Testing on Virus Total Without Crypting
